@@ -12,9 +12,7 @@ I developed a **Local Agent Architecture** using a Flask-based Bridge that enabl
 ---
 
 ## 📸 Demo & UI
-> **[כאן מומלץ להוסיף את ה-GIF שלך]**
-> 
-> ![Application Demo](demo.gif)
+![Application Demo](demo.gif)
 
 ---
 

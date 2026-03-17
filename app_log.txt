@@ -21,3 +21,11 @@
 2026-03-17 13:40:57,422 - INFO - Starting Outlook process for 4 recipients.
 2026-03-17 13:40:57,423 - INFO - 127.0.0.1 - - [17/Mar/2026 13:40:57] "[35m[1mPOST /create_draft HTTP/1.1[0m" 202 -
 2026-03-17 13:41:20,823 - INFO - Temporary file deleted: C:\Users\user1\Desktop\תכנותתת\שנה ב\פרקטיקוד\פרויקט_3 נוסף\secure_uploads\IMG_2280.JPG
+2026-03-17 13:45:39,274 - INFO - File saved: IMG_2280.JPG
+2026-03-17 13:45:39,276 - INFO - Starting Outlook process for 4 recipients.
+2026-03-17 13:45:39,276 - INFO - 127.0.0.1 - - [17/Mar/2026 13:45:39] "[35m[1mPOST /create_draft HTTP/1.1[0m" 202 -
+2026-03-17 13:45:59,995 - INFO - Temporary file deleted: C:\Users\user1\Desktop\תכנותתת\שנה ב\פרקטיקוד\פרויקט_3 נוסף\secure_uploads\IMG_2280.JPG
+2026-03-17 13:47:01,450 - INFO - File saved: IMG_2280.JPG
+2026-03-17 13:47:01,455 - INFO - Starting Outlook process for 4 recipients.
+2026-03-17 13:47:01,456 - INFO - 127.0.0.1 - - [17/Mar/2026 13:47:01] "[35m[1mPOST /create_draft HTTP/1.1[0m" 202 -
+2026-03-17 13:47:25,934 - INFO - Temporary file deleted: C:\Users\user1\Desktop\תכנותתת\שנה ב\פרקטיקוד\פרויקט_3 נוסף\secure_uploads\IMG_2280.JPG
