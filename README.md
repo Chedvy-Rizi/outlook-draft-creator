@@ -46,7 +46,7 @@ I developed a **Local Agent Architecture** using a Flask-based Bridge that enabl
 
 **1. Clone the Repository:**
 ```bash
-git clone [https://github.com/](https://github.com/)[Chedvy-Rizi]/outlook-draft-creator.git
+git clone [https://github.com/Chedvy-Rizi/outlook-draft-creator.git]
 cd outlook-draft-creator
 ```
 
@@ -61,6 +61,7 @@ python server.py
 ```
 
 **4. Launch the UI:**
+
 Open index.html in any modern browser.
 
 

@@ -15,3 +15,9 @@
 2026-03-17 13:26:21,672 - INFO - Starting Outlook process for 4 recipients.
 2026-03-17 13:26:21,675 - INFO - 127.0.0.1 - - [17/Mar/2026 13:26:21] "[35m[1mPOST /create_draft HTTP/1.1[0m" 202 -
 2026-03-17 13:26:49,418 - INFO - Temporary file deleted: C:\Users\user1\Desktop\תכנותתת\שנה ב\פרקטיקוד\פרויקט_3 נוסף\secure_uploads\IMG_2280.JPG
+2026-03-17 13:40:43,701 - ERROR - Critical server error: [Errno 2] No such file or directory: 'C:\\Users\\user1\\Desktop\\תכנותתת\\שנה ב\\פרקטיקוד\\פרויקט_3 נוסף\\secure_uploads\\IMG_2280.JPG'
+2026-03-17 13:40:43,706 - INFO - 127.0.0.1 - - [17/Mar/2026 13:40:43] "[35m[1mPOST /create_draft HTTP/1.1[0m" 500 -
+2026-03-17 13:40:57,420 - INFO - File saved: IMG_2280.JPG
+2026-03-17 13:40:57,422 - INFO - Starting Outlook process for 4 recipients.
+2026-03-17 13:40:57,423 - INFO - 127.0.0.1 - - [17/Mar/2026 13:40:57] "[35m[1mPOST /create_draft HTTP/1.1[0m" 202 -
+2026-03-17 13:41:20,823 - INFO - Temporary file deleted: C:\Users\user1\Desktop\תכנותתת\שנה ב\פרקטיקוד\פרויקט_3 נוסף\secure_uploads\IMG_2280.JPG
