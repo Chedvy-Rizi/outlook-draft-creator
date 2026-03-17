@@ -14,7 +14,7 @@ I developed a **Local Agent Architecture** using a Flask-based Bridge that enabl
 ## 📸 Demo & UI
 > **[כאן מומלץ להוסיף את ה-GIF שלך]**
 > 
-> ![Application Demo](https://via.placeholder.com/800x400?text=Insert+Your+Demo+GIF+Here)
+> ![Application Demo](demo.gif)
 
 ---
 
